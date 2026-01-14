@@ -4,7 +4,7 @@
 This repository contains a **single-cycle RISC-V processor** implemented in **Verilog HDL**, supporting a subset of the **RV32I ISA**.  
 Each instruction completes execution in **one clock cycle**, following a classic RISC datapath.
 
-The design is modular, readable, and suitable for **RTL ? Synthesis ? Physical Design (PD)** flow.
+The design is modular, readable, and suitable for **RTL & Synthesis & Physical Design (PD)** flow.
 
 ---
 
