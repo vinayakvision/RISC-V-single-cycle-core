@@ -78,7 +78,7 @@ The design is modular, readable, and suitable for **RTL & Synthesis & Physical D
 $readmemh
 $writememh
 $display
-
+```
 ## How to run
 irun -access +rwc -clean -top top_tb *.v
 
@@ -102,14 +102,14 @@ irun -access +rwc -clean -top top_tb *.v
 
 ## Future Work
 
-Add branch instructions (B-type)
-Pipelined version
-Hazard detection and forwarding
-Cache integration
-Full RTL to GDSII flow
+- Add branch instructions (B-type)
+- Pipelined version
+- Hazard detection and forwarding
+- Cache integration
+- Full RTL to GDSII flow
 
 ## Author
 
-Vinayak Venkappa Pujeri
-Final-Year ECE Student | VLSI Front-End & Digital Design
-Focus: RISC-V, Processor Architecture, Low-Power VLSI
+- Vinayak Venkappa Pujeri
+- Final-Year ECE Student | VLSI Front-End & Digital Design
+- Focus: RISC-V, Processor Architecture, Low-Power VLSI
